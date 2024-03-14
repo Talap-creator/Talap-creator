@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+- CEO,Founder Opportunity for you! - https://t.me/oppo4you
 - 🌱 Python(Flask-Django),Golang,SQL,Git,Docker
 - 👯 I’m looking to collaborate on opensource project
 - 💬 Ask me about opportiunties and learning
