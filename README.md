@@ -1,6 +1,6 @@
 ### Hi there 👋
 - CEO,Founder Opportunity for you! - https://t.me/oppo4you
-- CTO - skillpro.kz
+- CTO - [skillpro.kz](https://www.skillpro.kz/)
 - 🌱 Python(Flask-Django),Golang,SQL,Git,Docker
 - Deploy Heroku,DigitalOcean
 - 👯 I’m looking to collaborate on opensource project
