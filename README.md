@@ -1,6 +1,5 @@
 ### Hi there 👋
 - CEO,Founder Opportunity for you! - https://t.me/oppo4you
-- Product manager - https://qlang.kz/ 
 - 🌱 Python(Flask-Django),Golang,SQL,Git,Docker
 - Deploy Heroku,DigitalOcean,Microsoft Azure
 - 👯 I’m looking to collaborate on opensource project
